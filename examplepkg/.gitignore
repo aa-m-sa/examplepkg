@@ -1,0 +1,7 @@
+inst/doc
+packrat/
+\.Rprofile
+\.Rhistory
+.*\.Rproj
+\.Rproj\.user
+
